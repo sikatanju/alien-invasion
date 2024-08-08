@@ -8,7 +8,7 @@ class Alien(Sprite): #* A class to represent a single alien in the fleet.
         self.screen = ai_game.screen
 
         # * Load the alien image and set its rect attribute.
-        self.image = pygame.image.load('images/alien.bmp')
+        self.image = pygame.image.load('images/alien_ship_img.bmp')
         self.rect = self.image.get_rect()
 
         # * Start each new alien near the top left of the screen.

@@ -1,5 +1,3 @@
-# Python_Crash_Course -- Part III
+# Python_Crash_Course
 
-# \*\*\* This module is for a simple projects called `Alien Invasion`.
-
-` In 'Alien Invasion', the player controls a rocket ship taht appears at the bottom center of the screen. The player can move the ship right and left using the arrow keys and shoot bullets using the spacebar.When the game begins, a fleet of aliens fills the sky and moves across and down the screen. The player shoots and destroys the aliens. If the player destroys all the aliens, a new fleet appears that moves faster than the previous fleet. If any alien hits the player's ship or reaches the bottom of the screen, the player loses a ship. If the player loses three ships, the game ends (it's like having three lives).`
+Alien Invasion is an engaging arcade-style game developed using Python and the Pygame library. Inspired by classic space shooter games, players control a spaceship to defend against waves of alien invaders. The objective is to shoot down all the alien ships while avoiding their attacks to achieve the highest score.
